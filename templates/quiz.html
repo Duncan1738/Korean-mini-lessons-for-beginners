@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}Quiz - {{ quiz.lesson.title }}{% endblock %}
+{% block content %}
+    <h1>Quiz - {{ quiz.lesson.title }}</h1>
+    <form method="POST">
+        <div class="form-group">
+            <label for="answer">Question: {{ quiz.question }}</label>
+            <input type="text" class="form-control" id="answer" name="answer" required>
+        </div>
+        {% if answered %}
+            {% if correct %}
+                <div class="alert alert-success" role="alert">
+                    Correct answer! You completed the lesson.
+                </div>
+            {% else %}
+                <div class="alert alert-danger" role="alert">
+                    Incorrect answer. Please try again.
+                </div>
+            {% endif %}
+        {% endif %}
+        <button type="submit" class="btn btn-primary">Submit Answer</button>
+    </form>
+{% endblock %}

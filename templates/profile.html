@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Profile{% endblock %}
+{% block content %}
+    <h1>Profile</h1>
+    {% if completed_lessons %}
+        <h2>Completed Lessons:</h2>
+        <ul>
+            {% for lesson in completed_lessons %}
+                <li>{{ lesson.title }}</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No lessons completed yet.</p>
+    {% endif %}
+{% endblock %}
