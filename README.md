@@ -24,31 +24,18 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 ## 📌 Getting Started
 
 ### 1️⃣ **Clone the Repository**
-```bash
+```
 git clone https://github.com/yourusername/korean-learning-webapp.git
 cd korean-learning-webapp
 
 2️⃣ Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3️⃣ Set Up the Database
-bash
-Copy
-Edit
 python setup_db.py
 4️⃣ Run the Flask Application
-bash
-Copy
-Edit
 python app.py
 5️⃣ Access the Web App
 Open a browser and go to:
-
-cpp
-Copy
-Edit
 http://127.0.0.1:5000/
 📖 Lessons Included
 📌 Beginner Lessons
