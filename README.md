@@ -25,7 +25,7 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 
 ### 1️⃣ **Clone the Repository**
 ```
-git clone https://github.com/yourusername/korean-learning-webapp.git
+git clone https://github.com/Duncan1738/Korean-mini-lessons-for-beginners.git
 cd korean-learning-webapp
 
 2️⃣ Install Dependencies
