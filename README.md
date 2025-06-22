@@ -5,7 +5,7 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 
 ---
 
-## 🌟 Features
+##  Features
 ✅ **User Registration & Login** – Secure authentication using **Flask-Bcrypt** & **Flask-Login**.  
 ✅ **30 Pre-loaded Lessons** – Topics include **Hangul, greetings, numbers, colors, food, family, travel, and more**.  
 ✅ **Quiz System** – Each lesson has a **quiz** to test knowledge, with progress tracking.  
