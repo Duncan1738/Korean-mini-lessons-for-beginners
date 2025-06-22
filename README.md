@@ -21,7 +21,7 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 
 ---
 
-## 📌 Getting Started
+## Getting Started
 
 ### 1️⃣ **Clone the Repository**
 ```
