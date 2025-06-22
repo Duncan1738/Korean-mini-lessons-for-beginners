@@ -1,4 +1,4 @@
-# 📚 Korean Learning Web App 🇰🇷
+#  Korean Learning Web App 🇰🇷
 
 A **Flask-based web application** for learning **beginner Korean** through **lessons and quizzes**.  
 This app helps users study **Korean vocabulary, phrases, and cultural knowledge** with **interactive lessons and quizzes**.
