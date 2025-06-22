@@ -14,7 +14,7 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 - **Python** (Flask, SQLAlchemy, Flask-Bcrypt, Flask-Login)
 - **SQLite** (Database for user progress & quiz results)
 - **HTML, CSS** (Front-end for UI & interactivity)
