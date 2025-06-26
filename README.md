@@ -43,21 +43,19 @@ http://127.0.0.1:5000/
 ---
 ### Lessons Included
 📌 Beginner Lessons
-
 Lesson 1: Hangul Basics (Korean Alphabet)
 Lesson 2: Greetings & Introductions
 Lesson 3: Common Phrases
 Lesson 4: Numbers & Counting
 Lesson 5: Days, Months, and Seasons
 📌 Intermediate Lessons
-
 Lesson 6: Colors & Adjectives
 Lesson 7: Family Members
 Lesson 8: Food & Drinks
 Lesson 9: Travel & Directions
 Lesson 10: Korean Culture & Traditions
 
-Quiz System
+### Quiz System
 ✅ Each lesson includes a quiz.
 ✅ Users can view past scores in their profile.
 ✅ Multiple-choice & fill-in-the-blank questions.
