@@ -37,7 +37,7 @@ python app.py
 5️⃣ Access the Web App
 Open a browser and go to:
 http://127.0.0.1:5000/
-📖 Lessons Included
+ Lessons Included
 📌 Beginner Lessons
 
 Lesson 1: Hangul Basics (Korean Alphabet)
