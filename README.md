@@ -56,7 +56,7 @@ Lesson 7: Family Members
 Lesson 8: Food & Drinks
 Lesson 9: Travel & Directions
 Lesson 10: Korean Culture & Traditions
----
+
 Quiz System
 ✅ Each lesson includes a quiz.
 ✅ Users can view past scores in their profile.
