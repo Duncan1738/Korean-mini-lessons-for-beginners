@@ -28,16 +28,20 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 git clone https://github.com/Duncan1738/Korean-mini-lessons-for-beginners.git
 cd korean-learning-webapp
 ---
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 pip install -r requirements.txt
-3️⃣ Set Up the Database
+---
+### 3️⃣ Set Up the Database
 python setup_db.py
-4️⃣ Run the Flask Application
+---
+### 4️⃣ Run the Flask Application
 python app.py
-5️⃣ Access the Web App
+---
+### 5️⃣ Access the Web App
 Open a browser and go to:
 http://127.0.0.1:5000/
- Lessons Included
+---
+### Lessons Included
 📌 Beginner Lessons
 
 Lesson 1: Hangul Basics (Korean Alphabet)
@@ -52,6 +56,7 @@ Lesson 7: Family Members
 Lesson 8: Food & Drinks
 Lesson 9: Travel & Directions
 Lesson 10: Korean Culture & Traditions
+---
 Quiz System
 ✅ Each lesson includes a quiz.
 ✅ Users can view past scores in their profile.
