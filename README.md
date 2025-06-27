@@ -48,6 +48,7 @@ Lesson 2: Greetings & Introductions
 Lesson 3: Common Phrases
 Lesson 4: Numbers & Counting
 Lesson 5: Days, Months, and Seasons
+---
 📌 Intermediate Lessons
 Lesson 6: Colors & Adjectives
 Lesson 7: Family Members
