@@ -23,12 +23,12 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 
 ## Getting Started
 
-# 1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 ---
 git clone https://github.com/Duncan1738/Korean-mini-lessons-for-beginners.git
 cd korean-learning-webapp
 ---
-# 2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 pip install -r requirements.txt
 ---
 ### 3️⃣ Set Up the Database
@@ -54,7 +54,7 @@ Lesson 7: Family Members
 Lesson 8: Food & Drinks
 Lesson 9: Travel & Directions
 Lesson 10: Korean Culture & Traditions
-
+---
 ### Quiz System
 ✅ Each lesson includes a quiz.
 ✅ Users can view past scores in their profile.
