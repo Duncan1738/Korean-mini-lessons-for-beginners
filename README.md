@@ -25,9 +25,7 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 
 - Clone the Repository: git clone https://github.com/Duncan1738/Korean-mini-lessons-for-beginners.git, cd korean-learning-webapp-
 - Install Dependencies: pip install -r requirements.txt
----
-### 3️⃣ Set Up the Database
-python setup_db.py
+- Set Up the Database: python setup_db.py
 ---
 ### 4️⃣ Run the Flask Application
 python app.py
