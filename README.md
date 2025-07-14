@@ -39,7 +39,7 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 ---
 📌 Intermediate Lessons
 - Lesson 6: Colors & Adjectives
-Lesson 7: Family Members
+- Lesson 7: Family Members
 Lesson 8: Food & Drinks
 Lesson 9: Travel & Directions
 Lesson 10: Korean Culture & Traditions
