@@ -27,17 +27,17 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 - Install Dependencies: pip install -r requirements.txt
 - Set Up the Database: python setup_db.py
 - Run the Flask Application: python app.py
-= Access the Web AppOpen a browser and go to:http://127.0.0.1:5000/
+= Access the Web App Open a browser and go to:http://127.0.0.1:5000/
 ---
 ### Lessons Included
-📌 Beginner Lessons
+ Beginner Lessons
 - Lesson 1: Hangul Basics (Korean Alphabet)
 - Lesson 2: Greetings & Introductions
 - Lesson 3: Common Phrases
 - Lesson 4: Numbers & Counting
 - Lesson 5: Days, Months, and Seasons
 ---
-📌 Intermediate Lessons
+ Intermediate Lessons
 - Lesson 6: Colors & Adjectives
 - Lesson 7: Family Members
 - Lesson 8: Food & Drinks
@@ -49,3 +49,4 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 - Users can view past scores in their profile.
 - Multiple-choice & fill-in-the-blank questions.
 ---
+MIT licence
