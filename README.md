@@ -33,7 +33,7 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 📌 Beginner Lessons
 - Lesson 1: Hangul Basics (Korean Alphabet)
 - Lesson 2: Greetings & Introductions
-Lesson 3: Common Phrases
+- Lesson 3: Common Phrases
 Lesson 4: Numbers & Counting
 Lesson 5: Days, Months, and Seasons
 ---
