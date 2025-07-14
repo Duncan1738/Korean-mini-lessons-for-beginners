@@ -10,7 +10,7 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 - **30 Pre-loaded Lessons** – Topics include **Hangul, greetings, numbers, colors, food, family, travel, and more**.  
 - **Quiz System** – Each lesson has a **quiz** to test knowledge, with progress tracking.  
 - **User Profile** – Users can view their **completed lessons and quiz scores**.  
-✅ **Responsive UI** – Clean **HTML/CSS** design for desktop & mobile users.  
+- **Responsive UI** – Clean **HTML/CSS** design for desktop & mobile users.  
 
 ---
 
