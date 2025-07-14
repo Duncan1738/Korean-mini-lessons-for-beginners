@@ -47,4 +47,4 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 ### Quiz System
 - Each lesson includes a quiz.
 - Users can view past scores in their profile.
-✅ Multiple-choice & fill-in-the-blank questions.
+- Multiple-choice & fill-in-the-blank questions.
