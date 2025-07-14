@@ -27,10 +27,7 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 - Install Dependencies: pip install -r requirements.txt
 - Set Up the Database: python setup_db.py
 - Run the Flask Application: python app.py
----
-### 5️⃣ Access the Web App
-Open a browser and go to:
-http://127.0.0.1:5000/
+= Access the Web AppOpen a browser and go to:http://127.0.0.1:5000/
 ---
 ### Lessons Included
 📌 Beginner Lessons
