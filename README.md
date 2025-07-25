@@ -50,4 +50,4 @@ This app helps users study **Korean vocabulary, phrases, and cultural knowledge*
 - Users can view past scores in their profile.
 - Multiple-choice & fill-in-the-blank questions.
 ---
-MIT licence
+
